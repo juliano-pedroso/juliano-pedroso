@@ -16,9 +16,7 @@ Olá! Meu nome é Juliano, e sou um estudante dedicado em busca de conhecimento 
 ## 📚 Educação
 
 - **Graduação em Andamento em Ciência de Dados:** [FATEC-Ourinhos](https://www.fatecourinhos.edu.br/)
-- **Cursos Online:** [Estatística para Ciência de Dados e Machine Learning](https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/?couponCode=KEEPLEARNING), [Inteligência Artificial e Machine Learning: O Guia Completo](https://www.udemy.com/course/inteligencia-artificial-machine-learning-guia-completo/?couponCode=KEEPLEARNING),
-[Machine Learning e Data Science com Python de A a Z](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/?couponCode=KEEPLEARNING), [Machine Learning com Amazon AWS e SageMaker
-](https://www.udemy.com/course/machine-learning-amazon-aws-sagemaker/?couponCode=KEEPLEARNING)
+- **Cursos Online:** [Machine Learning e Data Science com Python de A a Z](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/?couponCode=KEEPLEARNING)
 
 ## 📫 Contato
 
