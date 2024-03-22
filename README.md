@@ -21,7 +21,7 @@ Estatística para Ciência de Dados e Machine Learning](https://www.udemy.com/co
 
 ## 📫 Contato
 
-- LinkedIn: [Juliano Pedroso](www.linkedin.com/in/juliano-pedroso-0bb5792a0)
+- LinkedIn: [Juliano Pedroso](https://www.linkedin.com/in/juliano-pedroso-0bb5792a0/)
 - E-mail: juliano.pdroso@gmail.com
 
 Estou aberto a colaborações, orientações e a oportunidades de aprendizado. Sinta-se à vontade para explorar meus projetos e entre em contato se tiver sugestões ou se quiser trocar experiências no vasto mundo da Data Science. Vamos juntos explorar o mundo dos dados!😊
